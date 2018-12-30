@@ -1,2 +1,2 @@
-# datanomit.fi-lauren
+# datanomit.fi/lauren
 My website --http://datanomit.fi/lauren/
