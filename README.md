@@ -1,2 +1,2 @@
 # datanomit.fi/lauren
-My website: http://datanomit.fi/lauren/
+Check out my website: http://datanomit.fi/lauren/
